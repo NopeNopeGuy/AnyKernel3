@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Redmi 5 Plus kernel
+kernel.string=Redmi Note 5 Pro kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
+device.name1=whyred
 supported.versions=
 supported.patchlevels=
 '; } # end properties
